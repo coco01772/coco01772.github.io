@@ -1,0 +1,48 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+ul.a{
+	
+  list-style-type: none;
+  font-family: verdana;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 40px;
+}
+img  {
+  float: left;
+   height: 30%;
+  width: 30%;
+  
+  padding-left:50px;
+  padding-right:20px;
+}
+
+summary {
+  padding-left:50px;
+  font-size: 20px;
+}
+
+details > p
+{
+  padding-left:100px;
+  font-family: verdana;
+  font-size: 18px;
+}
